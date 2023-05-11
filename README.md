@@ -5,7 +5,7 @@
 ### Overview
 
 This project is a part of the **second** year of Epitech. <br>
-We had **2 weeks** to complete it. :spiral_calendar: <br>
+I had **2 weeks** to complete it. :spiral_calendar: <br>
 
 The goal of this project was to discover the assembly language and recreate some libC function in assembly. <br>
 
@@ -28,7 +28,7 @@ From the repo:
 - Run `make` in your bash / command line
 - Run `./libasm.so`
 
-Here are the different **tools** and **languages** we used to make this project: :hammer_and_wrench:
+Here are the different **tools** and **languages** I used to make this project: :hammer_and_wrench:
 
 - Assembly
 - VSCode
